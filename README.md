@@ -1,4 +1,4 @@
-# mergesort-visualiser
+# Merge Sort visualizer 
 Merge sort visualizer in python.
 
 ## Getting started.
